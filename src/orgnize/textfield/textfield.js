@@ -16,7 +16,7 @@ componentWillMount(){
     }]
 })
 // 输出结果
-console.log("sss",JSON.stringify(data, null, 4))}
+console.log("ssss",JSON.stringify(data, null, 4))}
 
   render(){
     let [foo,[[boo],baz]]=[1,[[2],3]]
